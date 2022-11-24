@@ -45,6 +45,12 @@ class ViewController: UIViewController {
             colorView.backgroundColor = color
         }
     
+    @IBAction func redSlider(_ sender: Any) {
     }
+    @IBAction func greenSlider(_ sender: Any) {
+    }
+    @IBAction func blueController(_ sender: Any) {
+    }
+}
 
 
